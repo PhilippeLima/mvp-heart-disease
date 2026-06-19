@@ -1,7 +1,7 @@
 # MVP — Predição de Doença Cardíaca com Machine Learning
 
 **Curso:** Machine Learning & Analytics — PUC-Rio  
-**Autor:** Felipe Guimarães  
+**Autor:** Philippe Guimarães  
 **Tipo de problema:** Classificação Binária
 
 ---
