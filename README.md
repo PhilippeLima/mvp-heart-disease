@@ -43,7 +43,7 @@ O objetivo não é substituir o diagnóstico médico, mas servir como ferramenta
 2. Vá em **Runtime → Run all**  
 3. Nenhuma configuração manual é necessária — o dataset é carregado automaticamente via URL
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lippe-guimaraes/mvp-heart-disease/blob/main/mvp_heart_disease.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PhilippeLima/mvp-heart-disease/blob/main/mvp_heart_disease.ipynb)
 
 ---
 
